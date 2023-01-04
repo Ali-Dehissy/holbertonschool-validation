@@ -4,7 +4,7 @@
  
     GoHugo v0.80+
 
-Lifecyle
+## Lifecyle
 
     build
     clean
