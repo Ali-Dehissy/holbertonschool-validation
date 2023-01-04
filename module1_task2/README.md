@@ -6,3 +6,6 @@
     post
     help
 
+## Prerequisites
+    
+    GoHugo v0.80+
