@@ -1,11 +1,11 @@
 ## Module 1: Introduction to DevOps: Automate Everything to Focus on What Really Matters
-## Lifecyle
+Lifecyle
 
     build
     clean
     post
     help
 
-## Prerequisites
-    
+Prerequisites
+
     GoHugo v0.80+
